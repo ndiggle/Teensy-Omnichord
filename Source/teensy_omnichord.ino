@@ -17,15 +17,6 @@
 */
 //////////////////////////////////////////////////////////////////////
 
-/* Buttons to USB MIDI Example
-
-   You must select MIDI from the "Tools > USB Type" menu
-
-   To view the raw MIDI data on Linux: aseqdump -p "Teensy MIDI"
-
-   This example code is in the public domain.
-*/
-
 #include <Bounce.h>
 
 // User-Modifiable Values
